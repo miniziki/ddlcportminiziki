@@ -3,7 +3,7 @@
 
 I'm not sure why I did this exactly (my friend asked me to make a ddlc web port although it exists, though I do plan to try to make it past act 3 put for now not possible, I'll try to commit to this project, as of now I am busy. Another thing is adding the ports to more websites, as right now I'm currently doing CloudFlare. but for now the original project isn't being worked on, and I hope to continue the project after years.
 
-WORKING BROWSERS: chrome, Opera, I haven't tested the others
+WORKING BROWSERS: chrome, Opera, Safari, I haven't tested the others
 
 First things first, if this is your first time hearing about DDLC definitely play DDLC from a regular install from [ddlc.moe](https://ddlc.moe/) or Steam if possible, as the experience will likely be much better than in this browser port. This game is seriously amazing, and I highly recommend playing it.
 

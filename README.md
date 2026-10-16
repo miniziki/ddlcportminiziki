@@ -1,7 +1,7 @@
 # https://miniziki.github.io/ddlcportminiziki/
 #### Doki Doki Literature Club web port (not original I forked!!!)
 
-I'm not sure why I did this exactly (my friend asked me to make a ddlc web port although it exists, though I do plan to try to make it past act 3 put for now not possible, I'll try to commit to this project, as of now I am busy. Another thing is adding the ports to more websites, as right now I'm currently doing CloudFlare. but for now the original project isn't being worked on, and I hope to continue the project after years.
+I'm not sure why I did this exactly (my friend asked me to make a ddlc web port although it exists, though I do plan to try to make it past act 3 put for now not possible, I'll try to commit to this project, as of now I am busy. Another thing is adding the ports to more websites, as right now I'm currently doing CloudFlare. but for now the original project isn't being worked on, and I hope to continue the project after years. ANOTHER THING, there's a reason why I added Game file in Releases, CloudFlare pages doesn't allow large files like the assets and you'll have to manually download Game.zip and import it.
 
 WORKING BROWSERS: chrome, Opera, Safari, I haven't tested the others
 
